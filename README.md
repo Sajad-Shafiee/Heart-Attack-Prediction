@@ -26,4 +26,3 @@ The project includes the following steps:
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Structure
